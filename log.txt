@@ -1,0 +1,41 @@
+[2026-05-11 17:46:23] No rule for: desktop.ini
+[2026-05-11 17:46:28] Started watching folder.
+[2026-05-11 17:46:28] Stopped watching folder.
+[2026-05-11 17:46:32] No rule for: desktop.ini
+[2026-05-11 17:46:37] Started watching folder.
+[2026-05-11 17:46:45] Moved: homework.pdf -> C:/Users/kiyay/Desktop\Documents\2026-05
+[2026-05-11 17:46:48] Stopped watching folder.
+[2026-05-11 17:50:49] Moved: 新建 文本文档 (1).txt -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-11 17:50:50] Moved: 新建 文本文档.txt -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-11 17:50:50] Started watching folder.
+[2026-05-11 17:52:19] Moved: cat (1).png -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-11 17:52:28] Moved: movie.mp4 -> C:/Users/kiyay/Desktop/测试文件夹\Videos\2026-05
+[2026-05-11 17:52:33] Moved: 新建 文本文档 (1).txt -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-11 17:52:35] Stopped watching folder.
+[2026-05-11 18:34:44] Started watching folder.
+[2026-05-11 18:34:54] Moved: homework.pdf -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-11 18:35:17] Moved: 新建 文本文档 (1).txt -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-11 18:35:19] Moved: cat (1).png -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-11 18:35:24] Moved: movie.mp4 -> C:/Users/kiyay/Desktop/测试文件夹\Videos\2026-05
+[2026-05-11 18:35:26] Moved: cat.zip -> C:/Users/kiyay/Desktop/测试文件夹\Archives\2026-05
+[2026-05-11 18:35:30] Moved: 新建 文本文档.txt -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-11 18:35:32] Moved: dog.jpg -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-11 18:35:36] Moved: cat.png -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-11 18:35:54] Stopped watching folder.
+[2026-05-12 10:23:37] Started watching folder.
+[2026-05-12 10:25:28] Stopped watching folder.
+[2026-05-12 11:45:53] Started watching folder.
+[2026-05-12 11:47:12] Stopped watching folder.
+[2026-05-12 11:47:15] Moved: cat.png -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-12 11:47:16] Moved: cat.zip -> C:/Users/kiyay/Desktop/测试文件夹\Archives\2026-05
+[2026-05-12 11:47:18] Moved: dog.jpg -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-12 11:47:19] Moved: homework.pdf -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-12 11:47:22] Moved: 新建 文本文档 (1).txt -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-12 11:47:23] Moved: 新建 文本文档.txt -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-12 11:47:23] Started watching folder.
+[2026-05-12 11:47:27] Moved: cat.png -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-12 11:47:31] Moved: cat (1).png -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-12 11:47:43] Moved: homework.pdf -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-12 11:47:45] Moved: dog.jpg -> C:/Users/kiyay/Desktop/测试文件夹\Images\2026-05
+[2026-05-12 11:47:48] Moved: 新建 文本文档 (1).txt -> C:/Users/kiyay/Desktop/测试文件夹\Documents\2026-05
+[2026-05-12 11:48:22] Stopped watching folder.
