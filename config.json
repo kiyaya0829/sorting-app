@@ -1,6 +1,6 @@
 {
-    ".jpg": "Images",
-    ".png": "Images",
-    ".mp4": "Videos",
-    ".pdf": "Documents"
+    "folder_path": "D:/\u5b66\u4e60/testfile",
+    "rules": {
+        ".ext": "Category"
+    }
 }
